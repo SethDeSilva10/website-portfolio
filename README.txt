@@ -1,30 +1,30 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Seth De Silva - Personal Portfolio
 
+Welcome to the repository of my personal portfolio website. I'm Seth De Silva, a software engineer passionate about AI, machine learning, and front-end development!
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+## About Me
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+I'm a recent graduate from the University of Washington with a strong foundation in applied mathematics and computer science. My journey in tech is driven by curiosity and a desire to innovate, particularly in the realms of AI and user-centric design.
 
-(* = not included)
+## What You'll Find Here
 
-AJ
-aj@lkn.io | @ajlkn
+This portfolio showcases:
 
+- My professional journey and skills
+- Key projects I've worked on
+- My experiences in software development, AI, and machine learning
+- Leadership roles, including co-presidency of the Algorithmic Trading Club at UW
+- My involvement in reviving Sigma Beta Rho, a multicultural service fraternity
 
-Credits:
+## Technologies
 
-	Demo Images:
-		Unsplash (unsplash.com)
+This site is built with modern web technologies, reflecting my commitment to staying current with industry trends.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Connect With Me
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+I'm always open to discussing new ideas, potential collaborations, or opportunities. Feel free to reach out:
+
+- Email: sethdesilva03@gmail.com
+- LinkedIn: https://www.linkedin.com/in/seth-desilva/
+
+Thanks for stopping by! I hope you enjoy exploring my work and learning more about my journey in software engineering!
