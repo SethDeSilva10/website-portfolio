@@ -53,8 +53,8 @@
 			<article id="intro">
 				<h2 class="major">Intro</h2>
 				<span class="image main"><img src="images/IMG_2738.JPG" alt="" style="height: 80%;" /></span>
-				<p>Hello!</p>
-				<p>Hello! I'm Seth De Silva, a software engineer passionate about AI, machine learning, and front-end
+				<h3 className="centering">Hello!</h3>
+				<p>I'm Seth De Silva, a software engineer passionate about AI, machine learning, and front-end
 					development.
 					My journey began at the University of Washington, where I immersed myself in applied mathematics.
 					This foundation now drives my approach to software engineering, enabling me to tackle complex
@@ -103,21 +103,43 @@
 			<!-- Projects -->
 			<article id="Projects">
 				<h2 class="major">Projects</h2>
-				<ProjectItem>
-					<h3>Google Gemini AI Clone</h3>
-					<p>A replica of Google's Gemini AI model, demonstrating advanced natural language processing
-						capabilities.</p>
-				</ProjectItem>
-				<ProjectItem>
-					<h3>Stock Market Trading Algorithm</h3>
-					<p>An algorithm that uses machine learning to predict stock market trends and make trading
-						decisions. Utilizing Hidden Markov Models to identify states within the market.</p>
-				</ProjectItem>
-				<ProjectItem>
-					<h3>Cubeology</h3>
-					<p>A ReactJS application for Rubik's Cube enthusiasts, featuring tutorials, algorithms, and a
-						virtual cube solver.</p>
-				</ProjectItem>
+				<div class="project-grid">
+					<div class="project-card">
+						<h3>ParentPal</h3>
+						<p class="project-tech">MERN Stack, Google OAuth, WebSocket</p>
+						<ul>
+							<li>Engineered a comprehensive parenting support platform offering community forums, expert resources, and health tracking</li>
+							<li>Developed features including community forums, personalized health tracking, event planning, and AI-powered Q&A for on-demand parenting guidance</li>
+							<li>Built full-stack application using MongoDB, Express.js, React, and Node.js with secure JWT and Google OAuth authentication</li>
+							<li>Implemented real-time chat and notifications using WebSocket to foster immediate community engagement and support</li>
+						</ul>
+					</div>
+					<div class="project-card">
+						<h3>Google Gemini AI Clone</h3>
+						<p class="project-tech">ReactJS, HTML, CSS, Javascript, API</p>
+						<ul>
+							<li>Designed and developed a fully functional web app that replicates Google Gemini's AI capabilities</li>
+							<li>Created a responsive and intuitive UI/UX using React components, hooks, and state management to provide a seamless user experience</li>
+							<li>Successfully integrated the Gemini API to fetch real-time data and AI responses</li>
+						</ul>
+					</div>
+					<div class="project-card">
+						<h3>Stock Market Trading Algorithm</h3>
+						<p class="project-tech">Python, Yahoo Finance API, Backtrader, Zipline</p>
+						<ul>
+							<li>Developed a trading bot using Hidden Markov Models to predict stock movements, focusing on hidden state dynamics and market conditions</li>
+							<li>Utilized Gaussian Mixture Models for adaptive probability distributions, enhancing the bot's responsiveness to market changes</li>
+						</ul>
+					</div>
+					<div class="project-card">
+						<h3>Cubeology</h3>
+						<p class="project-tech">Javascript, ReactJS, YouTube, Interactive</p>
+						<ul>
+							<li>Created a website using ReactJS for users to find in-depth tutorials on how to solve the Rubik's Cube, in various methods</li>
+							<li>Tutored and managed 10 students, focusing on Rubik's Cube problem-solving from basic to advanced, and training them to compete in competitions</li>
+						</ul>
+					</div>
+				</div>
 			</article>
 
 			<!-- Contact -->
