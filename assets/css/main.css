@@ -777,6 +777,23 @@ input, select, textarea {
     margin-bottom: 0.5rem;
 }
 
+.project-card.featured {
+    border: 2px solid #64ffda;
+    position: relative;
+}
+
+.project-card.featured::after {
+    content: 'Featured Project';
+    position: absolute;
+    top: -10px;
+    right: 10px;
+    background: #64ffda;
+    color: #1a1a1a;
+    padding: 2px 10px;
+    font-size: 0.8em;
+    border-radius: 3px;
+}
+
 /* Actions */
 
 	ul.actions {
